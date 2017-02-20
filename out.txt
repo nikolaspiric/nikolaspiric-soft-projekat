@@ -1,0 +1,10 @@
+video-0.avi	74
+video-1.avi	5
+video-2.avi	93
+video-3.avi	115
+video-4.avi	99
+video-5.avi	99
+video-6.avi	99
+video-7.avi	95
+video-8.avi	112
+video-9.avi	96
